@@ -1,9 +1,9 @@
 # Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
 
-## AIM
+## AIM:
 To write a Python program for adding two complex numbers, and get the user input using the `eval()` function.
 
-## ALGORITHM
+## ALGORITHM:
 1. Begin the program.
 2. Use the `eval()` function to get two complex numbers as input from the user.
 3. Print the complex numbers entered by the user.
@@ -11,24 +11,18 @@ To write a Python program for adding two complex numbers, and get the user input
 5. Print the sum of the two complex numbers.
 6. Terminate the program.
 
-## PROGRAM
-```# Reg.No- 212222060038
-# Name- Devika N
-#Write your code here
-
-num1 = eval(input("Enter the first complex number: "))
-num2 = eval(input("Enter the second complex number: "))
-print("First complex number:", num1)
-print("Second complex number:", num2)
-sum = num1 + num2
-print("Sum of the two complex numbers:", sum)
-
-
+## PROGRAM:
+```
+a = eval()
+b = eval()
+print(f"A is {a}")
+print(f"B is {b}")
+print(f"Sum is {a+b}")
 ```
 
-## OUTPUT
+## OUTPUT:
+<img width="754" height="347" alt="image" src="https://github.com/user-attachments/assets/03494f57-c8d1-4469-aba1-fea9bff267ee" />
 
-<img width="767" height="240" alt="image" src="https://github.com/user-attachments/assets/42e1f15e-b440-44ae-a18a-5c324979adb5" />
 
 ## RESULT
-Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+Thus the python program for adding two complex numbers has been implemented and executed successfully.
