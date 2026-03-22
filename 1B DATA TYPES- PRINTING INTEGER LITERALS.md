@@ -9,23 +9,16 @@ To write a Python program to print the following integer literals: 123, 456, 789
 3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
 4. Terminate the program.
 
-## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
-
+## PROGRAM:
+```
 num1 = 123
 num2 = 456
 num3 = 789
 
-print(num1)
-print(num2)
-print(num3)
-
+print(num1, num2, num3)
 ```
-## OUTPUT
-<img width="760" height="154" alt="image" src="https://github.com/user-attachments/assets/4c3d1c9c-bd1c-4df7-a60c-0abf9e5cb4ef" />
+## OUTPUT:
+<img width="622" height="293" alt="image" src="https://github.com/user-attachments/assets/bf658787-7b90-4dff-8e22-fb2200cb2cfb" />
 
-## RESULT
-Thus a Python program to print the following integer literals: 123, 456, 789 is successfully executed.
+## RESULT:
+Thus, the Python program to print the integer literals 123, 456, and 789 was successfully created and executed.
